@@ -5,9 +5,9 @@ Enterprise adoption of autonomous AI agents is currently going through a trust a
 
 Unfortunately, it is a multi-faceted problem (illustrated in belwo fig) with the need to design validation tests covering both functional and non-functional aspects taking into account:
 
-. the underlying LLM (reasoning model),
-. solution architecture (retrieval-augmented generation — RAG, fine-tuning, agent/tool orchestration pattern, etc.),
-. applicable enterprise policies and AI regulations / responsible AI guidelines.
++ the underlying LLM (reasoning model),
++ solution architecture (retrieval-augmented generation — RAG, fine-tuning, agent/tool orchestration pattern, etc.),
++ applicable enterprise policies and AI regulations / responsible AI guidelines.
 
 
 <img width="1826" height="880" alt="image" src="https://github.com/user-attachments/assets/1ad95158-8b5b-4def-8b73-8605d9daece0" />
