@@ -9,7 +9,7 @@ Unfortunately, it is a multi-faceted problem (illustrated in belwo fig) with the
 + solution architecture (retrieval-augmented generation — RAG, fine-tuning, agent/tool orchestration pattern, etc.),
 + applicable enterprise policies and AI regulations / responsible AI guidelines.
 
-
+<br> <br>
 <img width="1826" height="880" alt="image" src="https://github.com/user-attachments/assets/1ad95158-8b5b-4def-8b73-8605d9daece0" />
                                                 <em>image credit: Debmalya Biswas</em>
 <br> <br>
