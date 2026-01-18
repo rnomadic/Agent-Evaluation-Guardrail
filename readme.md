@@ -11,7 +11,7 @@ Unfortunately, it is a multi-faceted problem (illustrated in belwo fig) with the
 
 <br> <br>
 <img width="1826" height="880" alt="image" src="https://github.com/user-attachments/assets/1ad95158-8b5b-4def-8b73-8605d9daece0" />
-                                                <font color="grey"image credit: Debmalya Biswas</font>
+                                                <font color="grey">image credit: Debmalya Biswas</font>
 <br> <br>
 There are primarily 3 types of evaluation methodologies prevalent today:
 
