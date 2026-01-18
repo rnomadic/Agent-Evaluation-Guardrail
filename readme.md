@@ -3,14 +3,15 @@
 ### Evaluation Strategy for AI Agents
 Enterprise adoption of autonomous AI agents is currently going through a trust and reliability crisis. To overcome this trust deficit, we take the first steps towards defining a comprehensive evaluation strategy for enterprise AI agents.
 
-Unfortunately, it is a multi-faceted problem (illustrated in Fig. 3) with the need to design validation tests covering both functional and non-functional aspects taking into account:
+Unfortunately, it is a multi-faceted problem (illustrated in belwo fig) with the need to design validation tests covering both functional and non-functional aspects taking into account:
 
-the underlying LLM (reasoning model),
-solution architecture (retrieval-augmented generation — RAG, fine-tuning, agent/tool orchestration pattern, etc.),
-applicable enterprise policies and AI regulations / responsible AI guidelines.
+. the underlying LLM (reasoning model),
+. solution architecture (retrieval-augmented generation — RAG, fine-tuning, agent/tool orchestration pattern, etc.),
+. applicable enterprise policies and AI regulations / responsible AI guidelines.
 
 
 <img width="1826" height="880" alt="image" src="https://github.com/user-attachments/assets/1ad95158-8b5b-4def-8b73-8605d9daece0" />
+*image credit: Debmalya Biswas*
 
 There are primarily 3 types of evaluation methodologies prevalent today:
 
